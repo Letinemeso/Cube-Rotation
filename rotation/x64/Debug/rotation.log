@@ -1,0 +1,30 @@
+﻿  Source.cpp
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_glewInit в функции main
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ glfwInit в функции main
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ glfwCreateWindow в функции main
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ glfwWindowShouldClose в функции main
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ glfwPollEvents в функции main
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ glfwGetKey в функции main
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ glfwMakeContextCurrent в функции main
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ glfwSwapBuffers в функции main
+Source.obj : error LNK2001: неразрешенный внешний символ "__imp___glewBindBuffer"
+Source.obj : error LNK2001: неразрешенный внешний символ "__imp___glewBufferData"
+Source.obj : error LNK2001: неразрешенный внешний символ "__imp___glewGenBuffers"
+Source.obj : error LNK2001: неразрешенный внешний символ "__imp___glewAttachShader"
+Source.obj : error LNK2001: неразрешенный внешний символ "__imp___glewCompileShader"
+Source.obj : error LNK2001: неразрешенный внешний символ "__imp___glewCreateProgram"
+Source.obj : error LNK2001: неразрешенный внешний символ "__imp___glewCreateShader"
+Source.obj : error LNK2001: неразрешенный внешний символ "__imp___glewEnableVertexAttribArray"
+Source.obj : error LNK2001: неразрешенный внешний символ "__imp___glewGetProgramiv"
+Source.obj : error LNK2001: неразрешенный внешний символ "__imp___glewGetShaderiv"
+Source.obj : error LNK2001: неразрешенный внешний символ "__imp___glewGetUniformLocation"
+Source.obj : error LNK2001: неразрешенный внешний символ "__imp___glewLinkProgram"
+Source.obj : error LNK2001: неразрешенный внешний символ "__imp___glewShaderSource"
+Source.obj : error LNK2001: неразрешенный внешний символ "__imp___glewUniformMatrix4fv"
+Source.obj : error LNK2001: неразрешенный внешний символ "__imp___glewUseProgram"
+Source.obj : error LNK2001: неразрешенный внешний символ "__imp___glewVertexAttribPointer"
+Source.obj : error LNK2001: неразрешенный внешний символ "__imp___glewBindVertexArray"
+Source.obj : error LNK2001: неразрешенный внешний символ "__imp___glewGenVertexArrays"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\GLFW32\lib\glfw3.lib : warning LNK4272: тип компьютера библиотеки "x86" конфликтует с типом целевого компьютера "x64"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\GLEW\lib\glew32.lib : warning LNK4272: тип компьютера библиотеки "x86" конфликтует с типом целевого компьютера "x64"
+C:\Users\User\source\repos\rotation\x64\Debug\rotation.exe : fatal error LNK1120: неразрешенных внешних элементов: 26
